@@ -1,1 +1,3 @@
 name: my-ci
+# On déclenche le workflow sur tout push
+on: [push]
